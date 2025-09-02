@@ -1,6 +1,6 @@
 import React from 'react'
 import './Dashboard.css'
-import Slider from './slider'
+import Slider from './Slider'
 import Activities from './Activities'
 import Performance from './Performance'
 import Quickactions from './Quickactions'
