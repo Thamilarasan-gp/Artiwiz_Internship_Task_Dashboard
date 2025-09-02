@@ -1,0 +1,45 @@
+.quickbar{
+    background-color: rgb(255, 255, 255);
+    width: 95%;
+    margin-left: 25px;
+    padding: 5px;
+   border-radius: 12px;
+   margin-top: 60px;
+ border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.quick-title{
+    font-size: medium;
+    margin-left: 40px;
+}
+.quick-menu{
+     display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+    gap: 15px;
+    width: 93%;
+    
+    list-style: none;
+    justify-content: center;
+}
+.quickbar-cont{
+   
+
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+text-align: center;
+     padding: 20px;
+     cursor: pointer;
+   border: 1px solid rgba(0, 0, 0, 0.2);
+
+
+
+   
+}
+.quickbar-cont:hover{
+   
+
+   transform:translate(-3px);
+box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.1);
+   
+}
