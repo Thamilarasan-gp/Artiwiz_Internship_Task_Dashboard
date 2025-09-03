@@ -7,7 +7,7 @@ I made it using **React.js** and deployed it so anyone can check it out.
 
 ---
 
-## 📸 Screenshot  
+## Screenshot  
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/8d8e5f27-cdb8-4237-8fba-497dbb1a0e7a)  
 
 ---
