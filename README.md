@@ -1,31 +1,30 @@
-This is the dashboard project I built during my internship at Artiwiz.
-I made it using React.js and deployed it so anyone can check it out.
+# React Dashboard – Artiwiz Internship  
 
-🔗 Live Demo: artiwiztask.vercel.app
+This is the **dashboard project** I built during my internship at **Artiwiz**.  
+I made it using **React.js** and deployed it so anyone can check it out.  
 
-Features
+🔗 **Live Demo:** [artiwiztask.vercel.app](https://artiwiztask.vercel.app)  
 
-Dashboard with clean UI
+---
 
-Responsive design (works on mobile & desktop)
+## Features  
+- Dashboard with clean UI  
+- Responsive design (works on mobile & desktop)  
+- Built with reusable React components  
 
-Built with reusable React components
+---
 
-Tech Used
+## Tech Used  
+- React.js  
+- CSS  
+- Deployed on Vercel  
 
-React.js
-CSS 
-Deployed on Vercel
+---
 
-Run Locally
+## Run Locally  
+
+```bash
 git clone https://github.com/Thamilarasan-gp/Artiwiz_Internship_Task_Dashboard.git
 cd Artiwiz_Internship_Task_Dashboard
 npm install
 npm start
-
-About Me
-
-Made with ❤️ by Thamilarasan G P
-
-GitHub
-LinkedIn
