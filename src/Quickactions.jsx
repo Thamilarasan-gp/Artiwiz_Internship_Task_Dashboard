@@ -1,5 +1,5 @@
 import React from 'react'
-import './Quickactions.css'
+import './styles/Quickactions.css'
 import { Upload, FileText, Users, BarChart2, BarChart3 } from "lucide-react";
 
 function Quickactions() {

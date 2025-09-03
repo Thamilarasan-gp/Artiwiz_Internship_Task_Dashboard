@@ -1,5 +1,5 @@
 import React from 'react'
-import './Slider.css'
+import './styles/Slider.css'
 import navlogo from './assets/image.png'
 import {
   LayoutGrid,
@@ -41,6 +41,17 @@ function Slider() {
     <li><Settings2Icon size={18}/>Settings</li>
 </ul>
 
+{/* <div className="">
+            <div className="profile">
+              <div className="profile_icon">
+                JD
+              </div>
+              <div className="admin_name">
+                <p>John Doe</p>
+                <p>Admin</p>
+              </div>
+            </div>
+          </div> */}
     </div>
   )
 }

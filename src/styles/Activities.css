@@ -1,0 +1,71 @@
+.Dash-Activity{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+     height: 260px;
+      padding: 20px;
+      position: relative;
+       border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.Dash-Activity:hover{
+   transform:translate(-3px);
+box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.1);
+}
+ 
+.Dash-Activity h4{
+   margin-left: 5px;
+   margin-top: -2px;
+    font-size: smaller;
+    font-weight: 400;
+}
+.activity-list{
+    list-style: none;
+    
+}
+.dash-right{
+    margin-right: 10px;
+}
+.actv-li{
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+  margin-top: -15px;
+}
+.actv-li p{
+   margin-top: -20px;
+} 
+
+.actv-view {
+    margin-top: -8%;
+    margin-left:85% ;
+    font-size:medium;
+    font-weight: 500;
+    cursor: pointer;
+}
+.actv-view:hover{
+    margin-top: -8%;
+    margin-left:85% ;
+    font-size:medium;
+    font-weight: 650;
+    cursor: pointer;
+}
+.dash-right p{
+ margin-top: 25px;
+    font-size: 12px;
+    color: rgb(150, 154, 153);
+}
+.dash-left p{
+  
+        font-size: 12px;
+    color: rgb(150, 154, 153);
+}
+#rupee{
+    color: green;
+    margin-top: 5px;
+    margin-left: -1px;
+    position: absolute;
+    font-size: small;
+    font-weight: bold;
+}
+.actv-li h5{
+font-weight: 500;
+}

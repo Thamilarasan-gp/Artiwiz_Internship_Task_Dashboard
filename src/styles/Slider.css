@@ -33,7 +33,7 @@
 .nav-header{
     display: flex;
     height: 80px;
-    border-bottom: 1px solid #e2e8f0;
+    border-bottom: 1px solid #d0d9e4;
 }
 .nav-title{
     margin-left: 30px;
@@ -51,17 +51,19 @@
   
 }
 .nav-logo img{
-    width: 55px;
-    height: 60px;
-    margin-top: 1px;
-    margin-left: 1px;
+    width: 35px;
+    height: 35px;
+    margin-top: 16px;
+    margin-left: 6px;
 }
 
 .Navigation-menu li:hover{
     background-color: #e2e8f0;
     color: black;
+     border: 1px solid rgb(138, 130, 130);
 }
 .Navigation-menu li:active{
     background-color: #e2e8f0;
+   
   
 }

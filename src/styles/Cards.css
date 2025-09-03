@@ -11,16 +11,31 @@
   
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
-height: 120px;
+height: 125px;
    padding-left: 30px;
   border: 1px solid rgba(0, 0, 0, 0.2);
    
 }
+.card:hover{
+transform:translate(-3px);
+box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.1);
+}
+
+   
+.card-icon{
+  margin-left: 200px;
+  margin-top: -25px;
+  position: absolute;
+ color: rgb(137, 137, 130);
+ 
+}
+
 
 .card-percent{
     color: green;
     font-size:x-small;
     margin-top: -18px;
+   
 }
 .card-percent-red{
     color: rgb(128, 0, 11);
@@ -29,10 +44,11 @@ height: 120px;
 }
 .card-title{
     font-size:small;
+    font-weight: 500;
     margin-top: 20px;
 }
 .card-count{
     font-size:larger;
-    margin-left: 14px;
 
+margin-top: 20px;
 }

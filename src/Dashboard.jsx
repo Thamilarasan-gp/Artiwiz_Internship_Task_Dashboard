@@ -1,5 +1,5 @@
 import React from 'react'
-import './Dashboard.css'
+import './styles/Dashboard.css'
 import Slider from './Slider'
 import Activities from './Activities'
 import Performance from './Performance'
