@@ -1,5 +1,6 @@
 import React from 'react'
 import './styles/Slider.css'
+import { User2Icon, UserCircle2Icon } from 'lucide-react';
 import navlogo from './assets/image.png'
 import {
   LayoutGrid,
@@ -41,17 +42,13 @@ function Slider() {
     <li><Settings2Icon size={18}/>Settings</li>
 </ul>
 
-{/* <div className="">
-            <div className="profile">
-              <div className="profile_icon">
-                JD
-              </div>
-              <div className="admin_name">
-                <p>John Doe</p>
-                <p>Admin</p>
-              </div>
+<div className="profile">
+            <span id='profile-logo'>TA</span>
+            <div className='profile-content'>
+                <span className='profile-name'>Thamil Arasan</span>
+                <span className='profile-role'>Admin</span>
             </div>
-          </div> */}
+          </div>
     </div>
   )
 }
